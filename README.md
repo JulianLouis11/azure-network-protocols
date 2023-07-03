@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/CrLyhDS.png" alt="Active Directory logo"/>
+<img src="https://i.imgur.com/5xI777A.png" alt="Microsoft Azure"/>
 </p>
 
 <h1>Exploring Azure & Active Directory</h1>
